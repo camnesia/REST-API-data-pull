@@ -1,6 +1,6 @@
 # REST-API-data-pull
 
-This uses two separate existing web API's.
+Uses two separate existing web API's. The data is pulled using AJAX.
 
 # 1st. API
 
