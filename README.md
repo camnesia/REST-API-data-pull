@@ -6,13 +6,13 @@ This uses two separate existing web API's.
 
 http://tapasweni-pathak.github.io/Horoscope-API/
 
-This is a Hororscope API
+Hororscope API
 
 # 2nd. API 
 
 http://isithackday.com/arrpi.php
 
-This translates text into pirate speech
+API that Translates text into pirate speech
 
 # Combined
 
