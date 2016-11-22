@@ -2,12 +2,18 @@
 
 This uses two separate existing web API's.
 
-1st. http://tapasweni-pathak.github.io/Horoscope-API/
+# 1st. API
+
+http://tapasweni-pathak.github.io/Horoscope-API/
 
 This is a Hororscope API
 
-2nd. http://isithackday.com/arrpi.php
+# 2nd. API 
+
+http://isithackday.com/arrpi.php
 
 This translates text into pirate speech
 
-Combining them for Daily Pirate Horoscope...
+# Combined
+
+Daily Pirate Horoscope...
